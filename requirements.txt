@@ -15,4 +15,5 @@ watchfiles
 websockets
 wincertstore
 xgboost
+PyYAML
 -e .
